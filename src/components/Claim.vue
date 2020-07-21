@@ -22,7 +22,7 @@ export default {
 		margin-top: 50px;
 
 		@media (min-width: 768px) {
-			margin-top: 150px;
+			margin-top: 100px;
 		}
 	}
 	
@@ -30,21 +30,17 @@ export default {
 		color: white;
 
 		text-shadow: 0 0 5px #fff, 
-					0 0 10px #fff, 
-					0 0 15px #50C878, 
-					0 0 20px #50C878, 
-					0 0 25px #50C878, 
-					0 0 30px #50C878, 
-					0 0 35px #50C878;
+			0 0 15px #50C878, 
+			0 0 20px #50C878, 
+			0 0 25px #50C878;
 
 		text-transform: uppercase;
 		font-size: 70px;
 		font-weight: 600;
 
 		@media (min-width: 768px) {
-			font-size: 120px;
+			font-size: 90px;
 		}
-		
 	}
 
 	p {
@@ -55,17 +51,10 @@ export default {
 		font-size: 14px;
 
 		@media (min-width: 768px) {
-			font-size: 22px;
+			font-size: 20px;
 			margin-top: 30px;
 		}
 	}
 
-	p:first-of-type {
-		margin-top: 50px;
-
-		@media (min-width: 1280px) {
-			margin-top: 70px;
-		}
-	}
 
 </style>

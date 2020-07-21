@@ -148,17 +148,17 @@ export default {
     font-family: Montserrat, sans-serif;
     position: absolute;
     left: 0;
-    padding: 20px;
+    padding: 10px 20px;
     margin: 5px;
     border: none;
     background: transparent;
     cursor: pointer;
-    font-size: 26px;
+    font-size: 20px;
     color: rgb(150, 150, 150);
     z-index: 1;
 
     @media (min-width: 768px) {
-      font-size: 32px;
+      font-size: 26px;
       margin: 15px;
     }
   }
@@ -179,6 +179,7 @@ export default {
 
   .buttonModalAboutBottom:focus {
     color: #50C878;
+    border: 2px solid #64d389;
     outline: none;
   }
 

@@ -50,7 +50,7 @@ export default {
 		text-align: center;
 
 		@media (min-width: 768px) {
-			font-size: 22px;
+			font-size: 20px;
 			margin: 60px auto 0 auto;
 		}
 	}
