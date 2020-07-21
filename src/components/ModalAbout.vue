@@ -2,7 +2,7 @@
 	<div class="aboutWrapper">
 		<h2>Hey! I'm Jaro,</h2>
 		<p class="text">
-			 a begginer front-end developer. This project was made to practice my skills in Vue.js framework and connecting REST API using Axios.
+			a begginer front-end developer. This project was made to practice my skills in Vue.js framework and connecting REST API using Axios.
 		</p>
 		<h3>Go to:</h3>
 		<ul>
