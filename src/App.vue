@@ -51,7 +51,7 @@ import Error from './components/Error.vue';
 import axios from 'axios';
 import debounce from 'lodash.debounce';
 
-const API = 'http://www.omdbapi.com/?apikey=becf1f46&s=';
+const API = 'https://www.omdbapi.com/?apikey=becf1f46&s=';
 
 export default {
   name: 'App',

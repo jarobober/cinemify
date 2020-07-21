@@ -25,7 +25,7 @@
 <script>
 import axios from 'axios';
 
-const APIID = 'http://www.omdbapi.com/?apikey=becf1f46&i=';
+const APIID = 'https://www.omdbapi.com/?apikey=becf1f46&i=';
 
 export default {  
     name: 'Modal',
